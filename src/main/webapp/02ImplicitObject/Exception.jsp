@@ -21,7 +21,7 @@ else if(status ==405){
 else if(status ==500){
 	out.print("500에러가 발생하였습니다.");
 	out.print("<br/>소스 코드에 오류가 없는지 확인해주세요 .");
-}
+}   
 %>
 <br>
 <img src="../images/da1a426384e0e.jpg" alt="오류 페이지" />
